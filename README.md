@@ -2,6 +2,7 @@
 
 Bu proje, [Kişisel portfolio] için geliştirilmiştir. | This project was developed for [Personal portfolio].
 
+*Anasayfa | Home Page
 ![Anasayfa Görünüm](public/assets/homepage.png)
 
 ## Özellikler | Features
