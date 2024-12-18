@@ -14,5 +14,5 @@ Bu proje, [Kişisel portfolio] için geliştirilmiştir. | This project was deve
 
 1. Git repo'sunu klonlayın | Clone the git repo:
    ```bash
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
+   git clone [https://github.com/scngnr/Portfolio.git](https://github.com/scngnr/Portfolio.git)
 

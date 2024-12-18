@@ -1,9 +1,9 @@
-import type { Metadata } from "next";
 import { Button } from "@/components/ui/button";
 import {FiDownload} from "react-icons/fi"
 import Socials from "@/components/Socials";
 import Photo from "@/components/Photo";
 import Stats from "@/components/Stats"
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Home Page",
